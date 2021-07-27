@@ -1,1 +1,2 @@
 Changes into new branch
+Now we have merged the branches and now we are doing a push after some more changes and adding new files.
